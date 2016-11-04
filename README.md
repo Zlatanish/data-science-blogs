@@ -121,6 +121,7 @@ A curated list of data science blogs
 * Learn Analytics Here https://learnanalyticshere.wordpress.com/ [(RSS)] (https://learnanalyticshere.wordpress.com/feed/)
 * Learning With Data http://learningwithdata.com/ [(RSS)] (http://learningwithdata.com/rss_feed.xml)
 * Life, Language, Learning http://daoudclarke.github.io/ [(RSS)] (http://daoudclarke.github.io/atom.xml)
+* Lois Keller: http://www.innocentheroine.com/search/label/DataScience [(RSS)] (http://www.innocentheroine.com/search/label/DataScience)
 * Louis Dorard http://www.louisdorard.com/blog/ [(RSS)] (http://www.louisdorard.com/blog?format=rss)
 * M.E.Driscoll http://medriscoll.com/ [(RSS)] (http://medriscoll.com/rss)
 * Machinalis http://www.machinalis.com/blog [(RSS)] (http://www.machinalis.com/blog/feeds/rss/)
